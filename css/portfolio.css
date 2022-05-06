@@ -88,11 +88,12 @@
 }
 
 .overlay .fa {
+    margin: 10px;
     height: 50px;
     width: 50px;
     background-color: #5f88e0;
     color: #fff;
-    display: inline-block;
+    display:inline-block;
     text-align: center;
     line-height: 50px;
     border-radius: 50%;
